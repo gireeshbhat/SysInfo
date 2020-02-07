@@ -1,0 +1,7 @@
+{
+  "host": "10.5.205.54",
+  "port": 3306,
+  "user-name": "root",
+  "password": "root",
+  "database": "testdata_gbhat"
+}
